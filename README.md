@@ -1,5 +1,4 @@
-# kuldeep
-I'm Himanshu,👨‍💻
+I'm Harsh,👨‍💻
 👀 Interested in Artificial Intelligence & Data Science.
 
 🌱 I’m currently learning Python.
